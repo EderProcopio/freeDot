@@ -30,7 +30,9 @@ Sinta-se à vontade para ajustar as variáveis no arquivo script.js para experim
 
 ## Créditos
 O projeto foi originalmente criado pelo canal <strong>Coding With Adam</strong>, do Youtube, utilizado por mim como base de aprendizado e treinamento. Divulgado em 2020, o projeto original continha alguns elementos ultrapassados, então tomei a liberdade de atualizá-lo para deixar o código mais próximo do padrão semântico atual. Além disso, decidi fazer algumas mudanças visuais e no comportamento do elemento de jogo. O canal pode ser visualizado e visitado logo abaixo.
-<a href="https://www.youtube.com/watch?v=UUFPEgRKwf4">
+<br>
+
+<a href="https://www.youtube.com/watch?v=UUFPEgRKwf4" target="_blank">
     <img src="./img/youtube.gif" alt="gif do canal Coding With Adam">
 </a>
 
