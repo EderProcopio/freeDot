@@ -14,7 +14,6 @@ let leftPressed = false;
 let rightPressed = false;
 
 
-
 //Loop do jogo
 function drawGame() {
     clearScreen();
