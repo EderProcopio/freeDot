@@ -37,6 +37,6 @@ O projeto foi originalmente criado pelo canal <strong>Coding With Adam</strong>,
 </a>
 
 ## Tecnologias Utilizadas
-- <img src="./img/html.webp" height="15" width="15"> HTML5
-- <img src="./img/css.webp" height="15" width="15"> CSS3 
-- <img src="./img/javascript.webp" height="15" width="15"> JavaScript (ES6+)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" width="15"> HTML5
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15" width="15"> CSS3 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" width="15"> JavaScript (ES6+)
