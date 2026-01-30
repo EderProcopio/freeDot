@@ -32,9 +32,8 @@ Sinta-se à vontade para ajustar as variáveis no arquivo script.js para experim
 O projeto foi originalmente criado pelo canal <strong><a href="https://www.youtube.com/@CodingWithAdam" target="_blank">Coding With Adam</a></strong>, do Youtube, utilizado por mim como base de aprendizado e treinamento. Divulgado em 2020, o projeto original continha alguns elementos ultrapassados, então tomei a liberdade de atualizá-lo para deixar o código mais próximo do padrão semântico atual. Além disso, decidi fazer algumas mudanças visuais e no comportamento do elemento de jogo. O canal pode ser visualizado e visitado logo abaixo.
 <br>
 
-<section>
-    <iframe width="780" height="439" src="https://www.youtube.com/embed/UUFPEgRKwf4" title="Create Your First JavaScript Game - Introduction to JavaScript Game Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+   <a href="https://youtu.be/UUFPEgRKwf4?si=ewtUOE3s-5g840e-" target="_blank" style="text-decoration: none; color: #0609a7;">Projeto original</a>
+   <script src="index.js"></script>
 
 ## Tecnologias Utilizadas
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" width="15"> HTML5
