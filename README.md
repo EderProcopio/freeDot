@@ -33,7 +33,6 @@ O projeto foi originalmente criado pelo canal <strong><a href="https://www.youtu
 <br>
 
    <a href="https://youtu.be/UUFPEgRKwf4?si=ewtUOE3s-5g840e-" target="_blank" style="text-decoration: none; color: #0609a7;">Projeto original</a>
-   <script src="index.js"></script>
 
 ## Tecnologias Utilizadas
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15" width="15"> HTML5
